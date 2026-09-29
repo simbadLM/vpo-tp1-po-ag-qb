@@ -11,7 +11,7 @@ def main():
     # Data structure to store the image
     im = None
     # default name of the image file
-    imName= "../imagesDeTest/monarch.png"
+    imName= "./imagesDeTest/monarch.png"
    
     # If we give an argument then open it instead of the default image
     if len(sys.argv) == 2 :
